@@ -1,0 +1,11 @@
+job_id,title,company,location,batch,skills,apply_link
+J001,Backend Developer Intern,NimbusPay (sample),Bengaluru,2027,python;django;sql;docker;git,https://www.lets-code.co.in/jobs/
+J002,AI Engineer Intern,Kirana Cloud (sample),Remote,2027,python;llm;langchain;rag;git,https://www.lets-code.co.in/jobs/
+J003,Software Engineer Trainee,Tejas Systems (sample),Pune,2026;2027,java;dsa;sql;oops;git,https://www.lets-code.co.in/jobs/
+J004,Frontend Developer Intern,PixelMandi (sample),Hyderabad,2027,javascript;react;html;css;git,https://www.lets-code.co.in/jobs/
+J005,Data Analyst Intern,Ganga Analytics (sample),Noida,2027,python;sql;excel;pandas;power bi,https://www.lets-code.co.in/jobs/
+J006,GenAI Developer Intern,Vartalap AI (sample),Bengaluru,2027,python;llm;prompt engineering;fastapi;docker,https://www.lets-code.co.in/jobs/
+J007,Full Stack Developer Trainee,Chai Commerce (sample),Remote,2026;2027,javascript;react;node.js;mongodb;git,https://www.lets-code.co.in/jobs/
+J008,ML Engineer Intern,Sutra Labs (sample),Chennai,2027,python;machine learning;pandas;scikit-learn;sql,https://www.lets-code.co.in/jobs/
+J009,Cloud Engineer Trainee,Megh Infra (sample),Gurugram,2026,linux;aws;docker;python;networking,https://www.lets-code.co.in/jobs/
+J010,Python Developer Intern,Bharat Fintech (sample),Mumbai,2027,python;fastapi;sql;docker;git,https://www.lets-code.co.in/jobs/
